@@ -1,0 +1,11 @@
+{
+  "name": "Remix AI CONNECT",
+  "description": "Smart AI Video \u0026 Voice Chat platform featuring lifelike simulated video calls, real-time multilingual translation, smart personas, and dynamic camera filters.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

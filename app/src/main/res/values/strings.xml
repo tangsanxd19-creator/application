@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AI CONNECT</string>
+    <string name="slogan">تواصل بلا حدود</string>
+    <string name="instant_video_call">مكالمة فيديو فورية</string>
+    <string name="smart_matching">مطابقة ذكية</string>
+    <string name="ai_personas">الشخصيات الذكية</string>
+    <string name="recent_calls">المحادثات الأخيرة</string>
+    <string name="call_ended">تم إنهاء المكالمة</string>
+    <string name="mute">كتم الصوت</string>
+    <string name="unmute">تشغيل الصوت</string>
+    <string name="camera_on">تشغيل الكاميرا</string>
+    <string name="camera_off">إيقاف الكاميرا</string>
+    <string name="switch_camera">تبديل الكاميرا</string>
+    <string name="filters">الفلاتر الذكية</string>
+    <string name="live_subtitles">الترجمة الفورية</string>
+    <string name="settings">الإعدادات والخصوصية</string>
+    <string name="type_message">اكتب رسالتك هنا...</string>
+    <string name="permission_camera_mic_rationale">يحتاج التطبيق لصلاحيات الكاميرا والميكروفون لتشغيل مكالمات الفيديو والتحدث بالصوت.</string>
+    <string name="filter_studio_title">استوديو فلاتر الكاميرا</string>
+    <string name="filter_studio_subtitle">معاينة حية بمصفوفة ألوان CameraX (4×5)</string>
+    <string name="filter_matrix_inspector_cd">عرض مصفوفة الألوان</string>
+    <string name="filter_reset_cd">إعادة ضبط الفلتر</string>
+    <string name="filter_preview_image_cd">معاينة تأثير الفلتر</string>
+    <string name="filter_comparing_original">الأصل (بدون فلتر)</string>
+    <string name="filter_compare_cd">مقارنة قبل وبعد</string>
+    <string name="filter_presets_section">الفلاتر الجاهزة</string>
+    <string name="filter_adjustments_section">ضبط مصفوفة الألوان</string>
+    <string name="filter_param_intensity">قوة الفلتر</string>
+    <string name="filter_param_brightness">السطوع</string>
+    <string name="filter_param_contrast">التباين</string>
+    <string name="filter_param_saturation">التشبع اللوني</string>
+    <string name="filter_action_cancel">إلغاء</string>
+    <string name="filter_action_apply">تطبيق الفلتر</string>
+</resources>
